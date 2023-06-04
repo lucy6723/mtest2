@@ -2,3 +2,6 @@ iframe{
 	width: 100vw !important;
     height:100vh !important;
 }
+body{ 
+	color: #000 !important;
+}
